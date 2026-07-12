@@ -1,0 +1,105 @@
+[
+  {
+    "question": "What is CloudSync?",
+    "answer": "CloudSync is a cloud storage and backup service that automatically syncs your files across all your devices and keeps encrypted backups so you never lose your data."
+  },
+  {
+    "question": "How much does CloudSync cost?",
+    "answer": "CloudSync offers a free plan with 5GB of storage. Paid plans start at $4.99/month for 100GB and go up to $19.99/month for 2TB of storage."
+  },
+  {
+    "question": "Is there a free trial for paid plans?",
+    "answer": "Yes, all paid plans come with a 14-day free trial. No credit card is required to start the trial."
+  },
+  {
+    "question": "How do I cancel my subscription?",
+    "answer": "You can cancel anytime from Account Settings > Billing > Cancel Subscription. Your plan will remain active until the end of the current billing period."
+  },
+  {
+    "question": "Can I get a refund?",
+    "answer": "We offer a 30-day money-back guarantee on all annual plans. Monthly plans are non-refundable but you can cancel at any time to stop future charges."
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "answer": "We accept all major credit cards, PayPal, and Apple Pay. Annual plans can also be paid via bank transfer for business accounts."
+  },
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click 'Forgot Password' on the login screen, enter your email, and we'll send you a secure link to reset your password. The link expires after 30 minutes."
+  },
+  {
+    "question": "How do I change my email address?",
+    "answer": "Go to Account Settings > Profile > Email Address, enter your new email, and confirm it via the verification link we send you."
+  },
+  {
+    "question": "Is my data encrypted?",
+    "answer": "Yes, all files are encrypted both in transit (TLS 1.3) and at rest (AES-256). Only you hold the keys to decrypt your files."
+  },
+  {
+    "question": "Is CloudSync GDPR compliant?",
+    "answer": "Yes, CloudSync is fully GDPR compliant. We store data in EU data centers for EU customers and provide tools to export or delete your data at any time."
+  },
+  {
+    "question": "Which devices are supported?",
+    "answer": "CloudSync works on Windows, macOS, Linux, iOS, and Android. We also offer browser access from any modern web browser.",
+    "tags": ["mobile app", "phone app", "ios app", "android app", "desktop app", "which platforms", "iphone", "ipad", "android phone"]
+  },
+  {
+    "question": "How do I install CloudSync on my computer?",
+    "answer": "Download the installer from cloudsync.com/download, run it, and sign in with your account. The app will start syncing your selected folders automatically."
+  },
+  {
+    "question": "Can I share files with people who don't have CloudSync?",
+    "answer": "Yes, you can generate a shareable link for any file or folder. Recipients can view or download it in their browser without needing a CloudSync account."
+  },
+  {
+    "question": "Is there a limit on file size?",
+    "answer": "Free accounts can upload files up to 2GB each. Paid accounts can upload files up to 50GB each."
+  },
+  {
+    "question": "How do I recover a deleted file?",
+    "answer": "Deleted files are kept in the Trash for 30 days. Go to Trash, select the file, and click Restore to recover it.",
+    "tags": ["accidentally deleted", "get a file back", "undo delete", "restore file"]
+  },
+  {
+    "question": "Can I sync only specific folders?",
+    "answer": "Yes, open the CloudSync app, go to Preferences > Selective Sync, and choose exactly which folders you want synced to this device."
+  },
+  {
+    "question": "Does CloudSync work offline?",
+    "answer": "Yes, files marked as 'Available Offline' are stored locally and will sync automatically once you reconnect to the internet."
+  },
+  {
+    "question": "How do I upgrade my storage plan?",
+    "answer": "Go to Account Settings > Billing > Change Plan, select the plan you want, and confirm. The upgrade takes effect immediately."
+  },
+  {
+    "question": "How do I contact customer support?",
+    "answer": "You can reach our support team via live chat in the app, or by emailing support@cloudsync.com. We typically respond within 24 hours.",
+    "tags": ["get in touch", "talk to someone", "reach a human", "help desk"]
+  },
+  {
+    "question": "Do you offer team or business accounts?",
+    "answer": "Yes, CloudSync for Teams starts at $9.99/user/month and includes admin controls, shared team folders, and centralized billing."
+  },
+  {
+    "question": "How do I invite team members?",
+    "answer": "In a Team account, go to Admin Console > Members > Invite, enter their email addresses, and they'll receive an invitation to join your workspace."
+  },
+  {
+    "question": "What happens to my files if I downgrade my plan?",
+    "answer": "If your usage exceeds your new plan's storage limit, your account becomes read-only until you either remove files or upgrade again. No files are deleted automatically."
+  },
+  {
+    "question": "Can I use two-factor authentication?",
+    "answer": "Yes, enable 2FA in Account Settings > Security using an authenticator app like Google Authenticator or Authy for an extra layer of protection."
+  },
+  {
+    "question": "How do I delete my account permanently?",
+    "answer": "Go to Account Settings > Privacy > Delete Account. This permanently removes all your files and data after a 14-day grace period."
+  },
+  {
+    "question": "Does CloudSync have version history?",
+    "answer": "Yes, we keep up to 30 previous versions of each file for the last 180 days, so you can restore an earlier version at any time."
+  }
+]
